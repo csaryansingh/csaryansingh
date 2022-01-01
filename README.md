@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web dev, music and travelling
 - 🌱 I’m currently learning ... web programming
 - 💞️ I’m looking to collaborate on ... web projects
-- 📫 How to reach me ... discord/@, twitter/@
+- 📫 How to reach me ... twitter/@, discord/@
 
 /Skills
 
