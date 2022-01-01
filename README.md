@@ -6,10 +6,12 @@
 
 /Skills
 
-- Languages: Java, Python, HTML/CSS/SASS, JavaSript
-- Tech's: React, SQL, Django, Bootstrap, Selenium, DOM
-- Tool's: Git, Docker, Kubernetes, VS Code
-- DevOps: Software Debugging, Testing, CI/DI, Security & Scaling
+Experience in Web Programming, DevOps, Agile/Scrum:
+
+ - Languages: Java, Python, HTML/CSS/SASS, JavaSript
+ - Tech's: React, SQL, Django, Bootstrap, Selenium, DOM
+ - Tool's: Git, Docker, Kubernetes, VS Code
+ - DevOps: Software Debugging, Testing, CI/DI, Security & Scaling
 
 <!---
 tim2tom/tim2tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
