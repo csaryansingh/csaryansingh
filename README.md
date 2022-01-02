@@ -6,10 +6,10 @@
 
 /Skills
 
-Experience in Web Programming, DevOps, Agile/Scrum:
+Experience in Web Programming, Cloud, DevOps, Agile/Scrum:
 
- - Languages: Java, Python, HTML/CSS/SASS, JavaSript
- - Tech's: React, SQL, Django, Bootstrap, Selenium, DOM
+ - Languages: Java, Python, JavaSript, Go
+ - Tech's: React, Bootstrap, Django, SQL
  - Tool's: Git, Docker, Kubernetes, VS Code
  - DevOps: Software Debugging, Testing, CI/DI, Security & Scaling
 
