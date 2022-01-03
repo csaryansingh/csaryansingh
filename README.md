@@ -8,7 +8,7 @@
 
 Experience in Web Programming, Cloud, DevOps, Agile/Scrum:
 
- - Languages: Java, Python, JavaSript, Go
+ - Languages: Java, Python, JavaSript, TypeScript, Go
  - Tech's: React, Bootstrap, Django, SQL
  - Tool's: Git, Linux, Docker, Kubernetes, Heroku, VS Code
  - DevOps: Software Debugging, Testing, CI/DI, Security & Scaling, Monitoring and Logging
