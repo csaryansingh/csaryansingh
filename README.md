@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tim2tom aka Aryan
 - 👀 I’m interested in ... dev, music and travelling
-- 🌱 I’m currently learning ... programming
+- 🌱 I’m currently learning ... web & DevOps
 - 💞️ I’m looking to collaborate on ... web projects
 - 📫 How to reach me ... discord/@
 
