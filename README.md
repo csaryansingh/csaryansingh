@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @tim2tom aka Aryan
-- 👀 I’m interested in ... web dev, music and travelling
-- 🌱 I’m currently learning ... web, cloud & devops
-- 💞️ I’m looking to collaborate on ... web projects
-- 📫 How to reach me ... discord/@
+👋 Hi, I’m Aryan Singh (He/Him)
+   - currently a 2nd Year Undergrad CS Student.
 
-<!---
-tim2tom/tim2tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Web Dev, Travelling and Music.
+- 🌱 I’m currently learning ... Web (Full Stack, MERN), Cloud & DevOps.
+- 💞️ I’m looking to collaborate on ... Web Projects.
+- 📫 How to reach me ... discord/@.
+
+More About Me:
